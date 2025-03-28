@@ -1,0 +1,66 @@
+.layer1{
+    width: 100%;
+    height: 700px;
+    background-color:rgb(10, 9, 9);
+}
+.icon{
+    width: 20px;
+    font-size: 60px;
+    color: azure;
+}
+.box{
+    width: 420px;
+    height: 410px;
+    border-radius: 20px;
+    background-color:rgb(16, 13, 13);
+    padding-top: 30px;
+}
+.sig1{
+    font-size: 30px;
+    color:white;
+}
+.uoe{
+    font-size: 21px;
+    color: white;
+}
+.inp1{
+    width: 70%;
+    border-radius: 6px;
+    height: 25px;
+    border-color: black;
+    cursor: pointer;
+
+}
+.pass{
+    font-size: 21px;
+    color: white;
+}
+.for{
+    font-size: 15px;
+    color: blue;
+}
+.inp2{
+    width: 70%;
+    border-radius: 6px;
+    height: 25px;
+    border-color: black;
+    cursor: pointer;
+
+}
+.sig2{
+    color:black;
+    width: 70%;
+    height: 30px;
+    border-radius: 20px;
+    border-color:black;
+    font-size: 15px;
+    background-color: green;
+}
+.new{
+    color:white;
+    font-size: 20px;
+}
+.cre{
+    color: blue;
+
+}

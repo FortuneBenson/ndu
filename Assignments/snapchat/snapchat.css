@@ -1,0 +1,103 @@
+.layer{
+    background-color:yellow;
+    width: 100%;
+    height: 900px;
+}
+
+.box{
+    width: 650px;
+    height: 700px;
+    border-radius: 80px;
+    background-color:yellow;
+    padding-top: 10px;
+    
+}
+.icon{
+    font-size: 80px;
+    color:black;
+}
+.sig{
+    font-size: 35px;
+    border-radius: 5px;
+    
+}
+.firstname{
+    font-size: 18px;
+}
+.ip1{
+    width: 50%;
+    height: 30px;
+    border-radius: 9px;
+    border-color: yellow;
+}
+.lastname{
+    font-size: 18px;
+}
+.ip2{
+    width: 50%;
+    height: 30px;
+    border-radius: 9px;
+    border-color: yellow;
+}
+.username{
+     font-size: 18px;
+}
+.ip3{
+    width: 50%;
+    height: 30px;
+    border-radius: 9px;
+    border-color: yellow;
+}
+.email{
+    font-size:18px;
+}
+.ip4{
+    width: 55%;
+    height: 30px;
+    border-radius: 9px;
+    border-color: yellow;
+}
+.password{
+    font-size: 18px;
+}
+.ip5{
+    width: 50%;
+    height: 30px;
+    border-radius: 9px;
+    border-color: yellow;
+}
+.brithday{
+    font-size: 18px;
+}
+.ip6{
+    width: 50%
+    height: 30px;
+    border-radius: 9px;
+    border-color: yellow;
+}
+.words{
+    font-size: 15px;
+}
+.acc{
+    width: 200px;
+    height: 50px;
+    color:white;
+    background-color: rgb(78, 78, 197);
+    border-radius: 6px;
+    border-width: 1px;
+
+}
+.log{
+    color:blue;
+}
+.have{
+    color: white;
+    font-size: 15px;
+}
+.are{
+    color: white;
+    font-size: 15px;
+}
+.click{
+    color: blue;
+}
